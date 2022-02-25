@@ -1,0 +1,2 @@
+# Privacy-Policy
+NutX Game
